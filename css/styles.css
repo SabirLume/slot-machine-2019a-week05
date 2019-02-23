@@ -1,0 +1,11 @@
+section{
+  font-size: 2rem;
+}
+#container{
+  width: 20%;
+  color: white;
+  margin: 0 auto;
+}
+body{
+  background-color: black;
+}
