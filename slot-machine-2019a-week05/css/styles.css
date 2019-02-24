@@ -1,0 +1,28 @@
+#reel1, #reel2, #reel3{
+  font-size: 2rem;
+}
+#container{
+  width: 23%;
+  color: black;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 10px;
+  background:white;
+}
+body{
+  background-color: black;
+}
+
+button{
+  width:20%;
+  background: blue;
+  color: white;
+}
+button:first-of-type{
+  margin-left: 25%;
+}
+
+h1{
+  color: red;
+}
