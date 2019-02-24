@@ -1,24 +1,17 @@
-# 🎰 Week05 Bootcamp2019a Project: Slot Machine
+# My Awesome Project
+For this project I made a slot machine. There are two buttons for a minimum and max bet. The user can either win or lose money.
+Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
-### How to submit your code for review:
+![alt text](slot.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
+I made this web application with both JavaScript, HTML, and CSS.The user starts with $1,000. When a minimum bet is made, the user can lose up to one dollar or make 25 dollars. When a maximum bet is made the user can make up to 100 dollars or lose 50 dollars. When the user loses the dom is updated with the message of "winner" or "loser".
+
+
+## Lessons Learned:
+
+While making this web application I further my understanding of how arguments work within a function. Also my understanding of conditionals has increased.
