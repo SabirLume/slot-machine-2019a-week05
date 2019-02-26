@@ -15,3 +15,7 @@ I made this web application with both JavaScript, HTML, and CSS.The user starts 
 ## Lessons Learned:
 
 While making this web application I further my understanding of how arguments work within a function. Also my understanding of conditionals has increased.
+
+
+##Changes
+I made some color changes to buttons
