@@ -12,7 +12,7 @@ document.getElementById('clickMin').addEventListener("click", function(){
   console.log(reel1,reel2,reel3)
   // conditional to upadate total values
 
-  var results = checkMatch(reel1, reel2, reel3)
+  var results = checkMatch( el3)
   if(results==='winner!'){
     total = total + 25;
   }else{

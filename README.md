@@ -3,6 +3,7 @@ For this project I made a slot machine. There are two buttons for a minimum and 
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 
+Link to my project https://sabirlume.github.io/Slot-Machine/
 
 ![alt text](slot.png)
 
